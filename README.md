@@ -38,8 +38,10 @@ The current voltmeter reading is:
   ## Circuit Diagram :
   <img width="461" height="424" alt="image" src="https://github.com/user-attachments/assets/9fb955cb-44e3-4b4d-a389-2f4628c50930" />
 
-##OUTPUT:
-![WhatsApp Image 2025-11-18 at 16 35 32_fb3e4504](https://github.com/user-attachments/assets/c6098054-2b12-4b3b-9f71-c5ebc21c64f2)
+  ## Output:
+  ![492768990-5efaa8e8-3d1e-4270-ab92-61ad6e168bae](https://github.com/user-attachments/assets/96055021-5521-438b-a814-74d922855dbf)
+
 
 
 ## Result: 
+Thus the Capacitance of an unknown Capacitor using Schering Bridge has been determined and measured.
